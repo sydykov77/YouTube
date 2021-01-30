@@ -1,4 +1,4 @@
-package com.example.youtube.ui.main
+package com.example.youtube.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
